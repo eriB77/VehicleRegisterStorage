@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="531b2ad4-89e6-486d-9b05-bca62c7dd82e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hu/erikabirtha/FileStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/erikabirtha/FileStorage.java" afterDir="false" />
-    </list>
+    <list default="true" id="531b2ad4-89e6-486d-9b05-bca62c7dd82e" name="Changes" comment="implement Filestorage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,11 +59,23 @@
       <option name="presentableId" value="Default" />
       <updated>1674211486124</updated>
       <workItem from="1674211487397" duration="1605000" />
-      <workItem from="1674214983472" duration="6154000" />
+      <workItem from="1674214983472" duration="6535000" />
     </task>
+    <task id="LOCAL-00001" summary="implement Filestorage">
+      <created>1674233546708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674233546708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implement Filestorage" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement Filestorage" />
   </component>
 </project>
