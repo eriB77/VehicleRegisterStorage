@@ -8,18 +8,18 @@ import java.io.*;
 
 public class FileStorage implements VehiclePersistence {
     public FileStorage() {
-        clearFile();
+        //clearFile();
     }
 
-    private void clearFile() {
-        FileWriter fileWriter;
-        try {
-            fileWriter = new FileWriter("vehicleDatas.txt");
-            fileWriter.close();
-        } catch (IOException exception) {
-            throw new RuntimeException(exception);
-        }
-    }
+//    private void clearFile() {
+//        FileWriter fileWriter;
+//        try {
+//            fileWriter = new FileWriter("vehicleDatas.txt");
+//            fileWriter.close();
+//        } catch (IOException exception) {
+//            throw new RuntimeException(exception);
+//        }
+//    }
 
     final String DATA_SEPARATOR = ";";
 
